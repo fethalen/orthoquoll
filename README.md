@@ -26,13 +26,13 @@ To run OrthoQuoll itself, clone this repository into your desired location,
 `cd` into the base directory (`orthoquoll`) and run the program like so:
 
 ```
-$ ./orthoquoll
+$ ./orthoquoll.py
 ```
 
 In some cases, you may have to add the permission to execute the program first:
 
 ```
-$ chmod +x orthoquoll
+$ chmod +x orthoquoll.py
 ```
 
 ## Tutorial
