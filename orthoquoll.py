@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 # Author: Felix Thalen
-# Date: November 10, 2018
 
 "Extract statistics from a directory of alignments."
 
@@ -220,8 +219,12 @@ def main():
     cat_msas.report(args.id, args.output, tree_diameter_stats)
 
     # cleanup temporary files
-    for path in alignments + trees:
-        os.remove(path)
+    if args.realign and not args.no_trees:
+        for path in realigned_files + trees:
+            os.remove(path)
+    elif not args.no_trees:
+        for path in trees:
+            os.remove(path)
 
     print("\ncompleted in {} seconds".format(
         round(time.time() - START_TIME, 2)))
