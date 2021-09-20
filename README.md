@@ -3,12 +3,11 @@ OrthoQuoll
 
 ## About
 
-This program evaluates the quality (hence the name, "ortholog quality") of one
-or more sets of orthologs that were inferred using a tree-based orthology
-inference program such as
+This program evaluates the quality of one or more sets of orthologs that were
+inferred using a tree-based orthology inference program such as
 [PhyloPyPruner](https://github.com/fethalen/phylopypruner). In addition to the
-usual metrics provided by the forementioned PhyloPyPruner, OrthoQuoll also
-calculates tree diameter statistics for all input orthologs.
+usual metrics provided by the forementioned orthology inference program,
+OrthoQuoll also calculates tree diameter statistics for all input orthologs.
 
 ## Installation
 
