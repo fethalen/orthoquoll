@@ -1,4 +1,4 @@
-<img src="https://gitlab.com/fethalen/orthoquoll/raw/master/doc/orthoquoll_logo_700px.png" alt="ppp_logotype" width="350"/>
+<img src="https://github.com/fethalen/orthoquoll/blob/master/orthoquoll_logo_700px.png" alt="ppp_logotype" width="350"/>
 
 ## About
 
