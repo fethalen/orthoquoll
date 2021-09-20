@@ -111,7 +111,7 @@ id;alignments;sequences;otus;meanSequences;meanOtus;meanSeqLen;shortestSeq;longe
 lophotrochozoa;10;819;74;81;56;174;52;232;26.6;1913;1.21;2.46;1.97;2.14
 ```
 
-This file is most easily viewed using `column -t -s, supermatrix_stats.csv` or
+This file is most easily viewed using `column -t -s\; supermatrix_stats.csv` or
 by opening it in a spreadsheet program such as Excel or LibreOffice Calc.
 
 © Animal Evolution and Biodiversity 2019
