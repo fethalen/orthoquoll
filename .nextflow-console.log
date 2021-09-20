@@ -1,0 +1,609 @@
+Sep-07 10:51:38.882 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: ed412492-1c86-43f3-bfda-5037166a5d41
+Sep-07 10:51:38.885 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: stupefied_khorana
+Sep-07 10:51:38.885 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 10:51:38.967 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 10:51:39.019 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 10:51:39.021 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 10:51:39.207 [Thread-2] DEBUG nextflow.Session - Session start invoked
+Sep-07 10:51:39.624 [Thread-2] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 10:51:39.626 [Thread-2] DEBUG nextflow.Session - Session await
+Sep-07 10:51:39.626 [Thread-2] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 10:51:39.626 [Thread-2] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 10:51:39.639 [Thread-2] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 10:51:39.660 [Thread-2] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 10:51:39.664 [Thread-2] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:00:40.675 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: b95611f9-fd62-4a91-a776-1a221f1ac235
+Sep-07 11:00:40.675 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: confident_panini
+Sep-07 11:00:40.675 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:00:40.676 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:00:40.678 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:00:40.679 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:00:40.715 [Thread-4] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:00:40.757 [Thread-4] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:00:44.810 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: ef38efb0-1310-4a72-990a-ef8a83bcebaf
+Sep-07 11:00:44.810 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: sharp_cori
+Sep-07 11:00:44.811 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:00:44.811 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:00:44.814 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:00:44.814 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:00:44.846 [Thread-6] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:00:44.875 [Thread-6] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:01:44.148 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: ec6229a5-6d57-4928-92a2-4b2be9a301d4
+Sep-07 11:01:44.148 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: lethal_faggin
+Sep-07 11:01:44.148 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:01:44.149 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:01:44.151 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:01:44.152 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:01:44.185 [Thread-8] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:02:36.492 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: c1a14f54-5dd3-4219-88d9-3883ce148f51
+Sep-07 11:02:36.492 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: focused_engelbart
+Sep-07 11:02:36.500 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:02:36.501 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:02:36.503 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:02:36.504 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:02:36.527 [Thread-10] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:02:36.579 [Thread-10] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:02:36.579 [Thread-10] DEBUG nextflow.Session - Session await
+Sep-07 11:02:36.579 [Thread-10] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:02:36.579 [Thread-10] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:02:36.579 [Thread-10] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:02:36.582 [Thread-10] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:02:36.582 [Thread-10] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:02:43.427 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: fa32a612-d14b-47a4-abc8-54594881d382
+Sep-07 11:02:43.428 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: spontaneous_agnesi
+Sep-07 11:02:43.428 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:02:43.429 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:02:43.431 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:02:43.432 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:02:43.462 [Thread-12] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:02:43.495 [Thread-12] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:02:43.499 [Thread-12] DEBUG nextflow.Session - Session await
+Sep-07 11:02:43.499 [Thread-12] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:02:43.499 [Thread-12] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:02:43.499 [Thread-12] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:02:43.502 [Thread-12] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:02:43.502 [Thread-12] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:03:25.356 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 429017db-072b-46be-a15a-3061179f6275
+Sep-07 11:03:25.356 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: shrivelled_picasso
+Sep-07 11:03:25.356 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:03:25.358 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:03:25.360 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:03:25.361 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:03:25.391 [Thread-14] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:03:25.430 [Thread-14] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:03:25.432 [Thread-14] DEBUG nextflow.Session - Session await
+Sep-07 11:03:25.432 [Thread-14] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:03:25.432 [Thread-14] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:03:25.433 [Thread-14] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:03:25.436 [Thread-14] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:03:25.436 [Thread-14] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:03:31.884 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: de496410-c429-4eca-8ee3-ffc31df342b2
+Sep-07 11:03:31.884 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: sad_fermi
+Sep-07 11:03:31.884 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:03:31.885 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:03:31.887 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:03:31.888 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:03:31.920 [Thread-16] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:03:31.958 [Thread-16] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:03:31.959 [Thread-16] DEBUG nextflow.Session - Session await
+Sep-07 11:03:31.959 [Thread-16] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:03:31.959 [Thread-16] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:03:31.960 [Thread-16] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:03:31.963 [Thread-16] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:03:31.963 [Thread-16] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:04:01.868 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 4bb0a013-3790-4570-ac82-b91294824368
+Sep-07 11:04:01.869 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: sad_shaw
+Sep-07 11:04:01.869 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:04:01.869 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:04:01.872 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:04:01.872 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:04:01.904 [Thread-18] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:04:01.941 [Thread-18] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:04:01.942 [Thread-18] DEBUG nextflow.Session - Session await
+Sep-07 11:04:01.942 [Thread-18] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:04:01.942 [Thread-18] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:04:01.943 [Thread-18] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:04:01.946 [Thread-18] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:04:01.946 [Thread-18] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:04:06.348 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 14411a69-95e2-405e-9f99-6aeb88adc6b3
+Sep-07 11:04:06.349 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: happy_faggin
+Sep-07 11:04:06.349 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:04:06.349 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:04:06.351 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:04:06.352 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:04:06.382 [Thread-20] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:04:06.408 [Thread-20] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:04:06.408 [Thread-20] DEBUG nextflow.Session - Session await
+Sep-07 11:04:06.409 [Thread-20] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:04:06.409 [Thread-20] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:04:06.409 [Thread-20] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:04:06.412 [Thread-20] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:04:06.413 [Thread-20] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:05:03.861 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 09c6fb1a-2733-432b-819f-d2816b64884f
+Sep-07 11:05:03.861 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: serene_raman
+Sep-07 11:05:03.861 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:05:03.862 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:05:03.864 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:05:03.865 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:05:03.894 [Thread-22] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:05:03.921 [Thread-22] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:05:07.045 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 726becda-54a1-4ed4-a311-4ae6ff5766d6
+Sep-07 11:05:07.045 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: ridiculous_gutenberg
+Sep-07 11:05:07.045 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:05:07.046 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:05:07.048 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:05:07.049 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:05:07.076 [Thread-24] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:05:07.103 [Thread-24] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:05:14.781 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: f30ee14a-4207-4f59-9b36-3b6efd0197ab
+Sep-07 11:05:14.781 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: tender_mestorf
+Sep-07 11:05:14.781 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:05:14.782 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:05:14.784 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:05:14.785 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:05:14.813 [Thread-26] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:05:14.838 [Thread-26] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:05:15.733 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 08b66ae4-55be-4697-9f52-1cb7d37451f8
+Sep-07 11:05:15.733 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: lethal_jennings
+Sep-07 11:05:15.733 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:05:15.734 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:05:15.736 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:05:15.737 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:05:15.765 [Thread-28] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:05:15.792 [Thread-28] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:05:15.793 [Thread-28] DEBUG nextflow.Session - Session await
+Sep-07 11:05:15.793 [Thread-28] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:05:15.793 [Thread-28] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:05:15.793 [Thread-28] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:05:15.796 [Thread-28] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:05:15.796 [Thread-28] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:05:26.893 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 6ec08190-78a5-4359-a70a-79d6247db9d4
+Sep-07 11:05:26.893 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: backstabbing_gautier
+Sep-07 11:05:26.894 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:05:26.894 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:05:26.896 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:05:26.897 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:05:26.925 [Thread-30] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:05:26.951 [Thread-30] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:05:34.095 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 5dd5b4db-2128-4677-91e3-18fb9d2a966d
+Sep-07 11:05:34.095 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: elated_kare
+Sep-07 11:05:34.096 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:05:34.097 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:05:34.100 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:05:34.101 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:05:34.140 [Thread-32] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:05:34.168 [Thread-32] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:05:37.877 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: e687aa6b-62e5-48c8-a963-a55e66acc6a5
+Sep-07 11:05:37.877 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: serene_bhaskara
+Sep-07 11:05:37.877 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:05:37.878 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:05:37.880 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:05:37.881 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:05:37.910 [Thread-34] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:05:37.936 [Thread-34] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:07:07.398 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: b27dac24-65ed-4f7c-b90a-a67ce1d17c36
+Sep-07 11:07:07.398 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: curious_noyce
+Sep-07 11:07:07.398 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:07:07.399 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:07:07.401 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:07:07.401 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:07:07.425 [Thread-36] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:07:07.464 [Thread-36] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:07:07.465 [Thread-36] DEBUG nextflow.Session - Session await
+Sep-07 11:07:07.465 [Thread-36] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:07:07.465 [Thread-36] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:07:07.465 [Thread-36] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:07:07.469 [Thread-36] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:07:07.469 [Thread-36] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:07:37.702 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: f1cccb94-3f17-4c03-b7a7-7d0a448eb9d2
+Sep-07 11:07:37.702 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: nostalgic_solvay
+Sep-07 11:07:37.703 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:07:37.703 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:07:37.705 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:07:37.706 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:07:37.737 [Thread-38] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:07:37.789 [Thread-38] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:07:52.254 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 15a265e4-e607-4020-ad0f-07e4fb5de5b9
+Sep-07 11:07:52.255 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: sleepy_visvesvaraya
+Sep-07 11:07:52.255 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:07:52.255 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:07:52.257 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:07:52.258 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:07:52.288 [Thread-40] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:07:52.318 [Thread-40] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:07:58.526 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 5e000edf-24ea-4011-af66-2fcc812fd2db
+Sep-07 11:07:58.526 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: trusting_goodall
+Sep-07 11:07:58.526 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:07:58.527 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:07:58.529 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:07:58.530 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:07:58.558 [Thread-42] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:07:58.582 [Thread-42] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:07:58.583 [Thread-42] DEBUG nextflow.Session - Session await
+Sep-07 11:07:58.583 [Thread-42] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:07:58.583 [Thread-42] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:07:58.583 [Thread-42] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:07:58.586 [Thread-42] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:07:58.586 [Thread-42] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:10:18.335 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: e8414a7d-34ff-4c0f-bbb7-14fd6f0aae06
+Sep-07 11:10:18.336 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: special_tuckerman
+Sep-07 11:10:18.336 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:10:18.336 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:10:18.338 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:10:18.339 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:10:18.368 [Thread-46] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:10:18.404 [Thread-46] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:10:30.944 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 6817a96f-b4cb-46d4-8298-5439139af635
+Sep-07 11:10:30.944 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: distraught_magritte
+Sep-07 11:10:30.944 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:10:30.945 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:10:30.947 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:10:30.948 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:10:30.971 [Thread-48] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:10:31.007 [Thread-48] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:12:26.024 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: d4eb5dba-6bf1-4b4f-829e-dad06f101b02
+Sep-07 11:12:26.025 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: pensive_nobel
+Sep-07 11:12:26.025 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:12:26.025 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:12:26.027 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:12:26.028 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:12:26.055 [Thread-50] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:12:31.608 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 7bd136f0-5ed3-48da-a4da-17e95969f89e
+Sep-07 11:12:31.609 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: trusting_cray
+Sep-07 11:12:31.609 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:12:31.609 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:12:31.611 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:12:31.612 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:12:31.631 [Thread-52] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:12:31.656 [Thread-52] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:12:31.657 [Thread-52] DEBUG nextflow.Session - Session await
+Sep-07 11:12:31.657 [Thread-52] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:12:31.657 [Thread-52] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:12:31.657 [Thread-52] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:12:31.661 [Thread-52] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:12:31.661 [Thread-52] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:12:41.920 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 6427790e-ff1c-4813-a93e-979181ed0b4f
+Sep-07 11:12:41.920 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: fabulous_torvalds
+Sep-07 11:12:41.921 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:12:41.921 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:12:41.923 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:12:41.924 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:12:41.946 [Thread-54] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:12:41.971 [Thread-54] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:12:46.680 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 83f1504a-44b0-48cc-8aa5-a193a4062ce7
+Sep-07 11:12:46.681 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: magical_fermi
+Sep-07 11:12:46.681 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:12:46.681 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:12:46.683 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:12:46.684 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:12:46.711 [Thread-56] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:13:03.393 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 7d2656f6-0dcc-47c8-bd49-3356e3ddfadf
+Sep-07 11:13:03.393 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: scruffy_goldwasser
+Sep-07 11:13:03.393 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:13:03.394 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:13:03.396 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:13:03.396 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:13:03.423 [Thread-58] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:13:03.477 [Thread-58] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:13:09.712 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 9a3af851-f2a5-4858-90d5-e7dc883b2baf
+Sep-07 11:13:09.713 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: angry_gutenberg
+Sep-07 11:13:09.713 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:13:09.713 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:13:09.715 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:13:09.716 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:13:09.742 [Thread-60] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:13:09.768 [Thread-60] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:13:09.768 [Thread-60] DEBUG nextflow.Session - Session await
+Sep-07 11:13:09.768 [Thread-60] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:13:09.768 [Thread-60] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:13:09.769 [Thread-60] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:13:09.773 [Thread-60] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:13:09.773 [Thread-60] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:13:14.096 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 6eb583a9-305d-4a01-8c8b-3a6ca9418958
+Sep-07 11:13:14.097 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: magical_keller
+Sep-07 11:13:14.097 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:13:14.097 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:13:14.099 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:13:14.100 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:13:14.126 [Thread-62] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:13:14.150 [Thread-62] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:13:14.150 [Thread-62] DEBUG nextflow.Session - Session await
+Sep-07 11:13:14.150 [Thread-62] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:13:14.150 [Thread-62] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:13:14.150 [Thread-62] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:13:14.155 [Thread-62] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:13:14.155 [Thread-62] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:13:29.544 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 592d6950-5a03-4d79-ab00-c94ecec86430
+Sep-07 11:13:29.545 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: goofy_bhaskara
+Sep-07 11:13:29.545 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:13:29.545 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:13:29.547 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:13:29.548 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:13:29.584 [Thread-64] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:13:29.611 [Thread-64] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:13:29.611 [Thread-64] DEBUG nextflow.Session - Session await
+Sep-07 11:13:29.611 [Thread-64] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:13:29.611 [Thread-64] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:13:29.611 [Thread-64] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:13:29.615 [Thread-64] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:13:29.615 [Thread-64] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:13:49.888 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 188f4fcb-a576-4ac5-adac-f3daa3bd2c32
+Sep-07 11:13:49.889 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: hungry_jepsen
+Sep-07 11:13:49.889 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:13:49.889 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:13:49.891 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:13:49.892 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:13:49.919 [Thread-66] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:13:49.947 [Thread-66] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:14:12.185 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 18e7b8ab-77f4-4e1f-9ac9-cedeeece8f7a
+Sep-07 11:14:12.185 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: lonely_poisson
+Sep-07 11:14:12.185 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:14:12.185 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:14:12.187 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:14:12.188 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:14:12.215 [Thread-68] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:14:12.244 [Thread-68] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:14:12.245 [Thread-68] DEBUG nextflow.Session - Session await
+Sep-07 11:14:12.245 [Thread-68] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:14:12.245 [Thread-68] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:14:12.245 [Thread-68] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:14:12.248 [Thread-68] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:14:12.248 [Thread-68] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:14:20.136 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 6f3ad685-c5fd-48b2-bcc5-098c4c2f4513
+Sep-07 11:14:20.137 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: intergalactic_panini
+Sep-07 11:14:20.137 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:14:20.137 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:14:20.139 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:14:20.140 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:14:20.166 [Thread-70] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:14:20.192 [Thread-70] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:14:20.193 [Thread-70] DEBUG nextflow.Session - Session await
+Sep-07 11:14:20.193 [Thread-70] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:14:20.193 [Thread-70] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:14:20.193 [Thread-70] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:14:20.196 [Thread-70] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:14:20.197 [Thread-70] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:14:35.129 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 6de6a3c4-e7f7-4848-98cd-ad2a542e536e
+Sep-07 11:14:35.129 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: crazy_tesla
+Sep-07 11:14:35.130 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:14:35.130 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:14:35.132 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:14:35.133 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:14:35.161 [Thread-72] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:14:35.186 [Thread-72] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:14:35.187 [Thread-72] DEBUG nextflow.Session - Session await
+Sep-07 11:14:35.187 [Thread-72] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:14:35.187 [Thread-72] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:14:35.187 [Thread-72] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:14:35.191 [Thread-72] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:14:35.191 [Thread-72] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:14:49.001 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 46dd85c3-cff5-4de7-9bf8-397dbd964f7c
+Sep-07 11:14:49.001 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: cranky_bohr
+Sep-07 11:14:49.001 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:14:49.002 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:14:49.004 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:14:49.005 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:14:49.032 [Thread-74] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:14:49.059 [Thread-74] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:14:49.059 [Thread-74] DEBUG nextflow.Session - Session await
+Sep-07 11:14:49.059 [Thread-74] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:14:49.059 [Thread-74] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:14:49.060 [Thread-74] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:14:49.064 [Thread-74] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:14:49.064 [Thread-74] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:15:10.025 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 805f7a6b-08c6-4f9f-9729-bfa979afc1c5
+Sep-07 11:15:10.026 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: goofy_curran
+Sep-07 11:15:10.026 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:15:10.026 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:15:10.028 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:15:10.029 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:15:10.056 [Thread-76] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:15:10.080 [Thread-76] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:15:10.081 [Thread-76] DEBUG nextflow.Session - Session await
+Sep-07 11:15:10.081 [Thread-76] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:15:10.081 [Thread-76] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:15:10.081 [Thread-76] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:15:10.085 [Thread-76] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:15:10.085 [Thread-76] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:16:23.618 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: f7d36c29-66d1-4d56-b51c-692627df7af2
+Sep-07 11:16:23.618 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: focused_church
+Sep-07 11:16:23.618 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:16:23.618 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:16:23.620 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:16:23.621 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:16:23.643 [Thread-78] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:16:23.669 [Thread-78] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:16:42.266 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 4ebcec18-6085-4be4-9895-b52f30aa4314
+Sep-07 11:16:42.266 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: happy_yonath
+Sep-07 11:16:42.266 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:16:42.266 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:16:42.268 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:16:42.269 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:16:42.291 [Thread-80] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:16:42.354 [Thread-80] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:17:06.722 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 0bca11ca-00f9-4fdf-81ad-744e9faaf179
+Sep-07 11:17:06.722 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: pensive_mcnulty
+Sep-07 11:17:06.722 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:17:06.722 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:17:06.724 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:17:06.724 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:17:06.751 [Thread-82] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:17:21.666 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 89d6302e-bc92-40e5-a91d-bc55943cceb9
+Sep-07 11:17:21.666 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: maniac_mestorf
+Sep-07 11:17:21.666 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:17:21.667 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:17:21.668 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:17:21.669 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:17:21.695 [Thread-84] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:17:52.010 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: b1af391e-5b97-4fe3-9881-4ad66e7a9b01
+Sep-07 11:17:52.010 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: crazy_pasteur
+Sep-07 11:17:52.010 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:17:52.011 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:17:52.012 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:17:52.013 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:17:52.040 [Thread-86] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:18:06.139 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: be9e3284-a72d-48f7-96b6-546a3abef199
+Sep-07 11:18:06.139 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: determined_mirzakhani
+Sep-07 11:18:06.139 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:18:06.139 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:18:06.141 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:18:06.141 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:18:06.168 [Thread-88] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:18:06.193 [Thread-88] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:18:11.922 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 761b724c-6587-4707-9b30-14a8a2be1615
+Sep-07 11:18:11.922 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: soggy_kirch
+Sep-07 11:18:11.922 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:18:11.923 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:18:11.925 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:18:11.925 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:18:11.952 [Thread-90] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:18:11.977 [Thread-90] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:18:21.274 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 1df35935-ef31-40d4-9578-b876a935ace6
+Sep-07 11:18:21.274 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: cranky_swirles
+Sep-07 11:18:21.274 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:18:21.275 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:18:21.276 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:18:21.277 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:18:21.303 [Thread-92] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:22:42.228 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: cfa80b56-fa53-4aab-84b2-9cd2adac872b
+Sep-07 11:22:42.228 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: sleepy_poisson
+Sep-07 11:22:42.228 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:22:42.229 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:22:42.230 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:22:42.231 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:22:42.257 [Thread-94] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:22:42.279 [Thread-94] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:23:05.372 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: bd044afb-d769-481f-b629-58b1d73d3d56
+Sep-07 11:23:05.372 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: angry_goldstine
+Sep-07 11:23:05.372 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:05.373 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:05.375 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:05.375 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:05.401 [Thread-96] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:05.425 [Thread-96] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:23:05.426 [Thread-96] DEBUG nextflow.Session - Session await
+Sep-07 11:23:05.426 [Thread-96] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:23:05.426 [Thread-96] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:23:05.426 [Thread-96] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:23:05.438 [Thread-96] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:23:05.438 [Thread-96] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:23:12.605 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 59898d5f-626b-40b6-8671-01dcf3cd0b26
+Sep-07 11:23:12.605 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: golden_lamport
+Sep-07 11:23:12.605 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:12.605 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:12.607 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:12.607 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:12.633 [Thread-98] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:12.657 [Thread-98] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:23:19.373 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: baefc2f3-7f07-4066-821a-f7e8074a66b9
+Sep-07 11:23:19.373 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: mad_brenner
+Sep-07 11:23:19.373 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:19.373 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:19.375 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:19.376 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:19.402 [Thread-100] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:25.236 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 7e50980c-cba6-4622-95b5-8bb36f74debf
+Sep-07 11:23:25.237 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: shrivelled_montalcini
+Sep-07 11:23:25.237 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:25.237 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:25.239 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:25.239 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:25.265 [Thread-102] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:32.981 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 3c7a22d4-c642-408d-b823-430b5b2fae3f
+Sep-07 11:23:32.981 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: mighty_morse
+Sep-07 11:23:32.981 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:32.981 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:32.983 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:32.984 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:33.010 [Thread-104] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:33.032 [Thread-104] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:23:33.032 [Thread-104] DEBUG nextflow.Session - Session await
+Sep-07 11:23:33.032 [Thread-104] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:23:33.032 [Thread-104] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:23:33.033 [Thread-104] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:23:33.042 [Thread-104] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:23:33.042 [Thread-104] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:23:39.356 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 8d38c60e-15dd-4e71-9f19-a1f68d50e102
+Sep-07 11:23:39.356 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: backstabbing_keller
+Sep-07 11:23:39.356 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:39.357 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:39.358 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:39.359 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:39.385 [Thread-106] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:39.406 [Thread-106] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:23:39.407 [Thread-106] DEBUG nextflow.Session - Session await
+Sep-07 11:23:39.407 [Thread-106] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:23:39.407 [Thread-106] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:23:39.407 [Thread-106] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:23:39.411 [Thread-106] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:23:39.411 [Thread-106] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:23:51.172 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 3f355a2b-08e8-400e-be37-f134332d3f0f
+Sep-07 11:23:51.172 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: jolly_brattain
+Sep-07 11:23:51.172 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:51.173 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:51.174 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:51.175 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:51.199 [Thread-108] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:51.221 [Thread-108] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:23:51.222 [Thread-108] DEBUG nextflow.Session - Session await
+Sep-07 11:23:51.222 [Thread-108] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:23:51.222 [Thread-108] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:23:51.222 [Thread-108] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:23:51.232 [Thread-108] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:23:51.232 [Thread-108] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:23:57.173 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 4fb2b6df-bfed-4a11-ac98-c8faaf52228f
+Sep-07 11:23:57.173 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: maniac_northcutt
+Sep-07 11:23:57.173 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:23:57.173 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:23:57.175 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:23:57.175 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:23:57.203 [Thread-110] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:23:57.225 [Thread-110] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:23:57.226 [Thread-110] DEBUG nextflow.Session - Session await
+Sep-07 11:23:57.226 [Thread-110] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:23:57.226 [Thread-110] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:23:57.226 [Thread-110] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:23:57.230 [Thread-110] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:23:57.230 [Thread-110] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:24:04.029 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 90a0671d-7802-469e-b51d-1d1459faf31f
+Sep-07 11:24:04.029 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: prickly_monod
+Sep-07 11:24:04.029 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:24:04.030 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:24:04.031 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:24:04.032 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:24:04.057 [Thread-112] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:24:04.081 [Thread-112] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:24:04.081 [Thread-112] DEBUG nextflow.Session - Session await
+Sep-07 11:24:04.081 [Thread-112] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:24:04.081 [Thread-112] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:24:04.082 [Thread-112] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:24:04.085 [Thread-112] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:24:04.086 [Thread-112] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:24:26.861 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: 312eeed3-71b5-4945-9315-132f06b1e9f6
+Sep-07 11:24:26.861 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: irreverent_descartes
+Sep-07 11:24:26.861 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:24:26.861 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:24:26.863 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:24:26.864 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:24:26.889 [Thread-114] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:24:26.911 [Thread-114] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:24:26.912 [Thread-114] DEBUG nextflow.Session - Session await
+Sep-07 11:24:26.912 [Thread-114] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:24:26.912 [Thread-114] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:24:26.912 [Thread-114] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:24:26.916 [Thread-114] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:24:26.916 [Thread-114] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
+Sep-07 11:24:37.541 [AWT-EventQueue-0] DEBUG nextflow.Session - Session uuid: e875303a-20b5-475b-965e-e140fd68de66
+Sep-07 11:24:37.541 [AWT-EventQueue-0] DEBUG nextflow.Session - Run name: dreamy_snyder
+Sep-07 11:24:37.541 [AWT-EventQueue-0] DEBUG nextflow.Session - Executor pool size: 28
+Sep-07 11:24:37.542 [AWT-EventQueue-0] DEBUG nextflow.Session - Work-dir: /home/feli/ownCloud/projects/orthoquoll/work [ext2/ext3]
+Sep-07 11:24:37.543 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: TowerFactory
+Sep-07 11:24:37.544 [AWT-EventQueue-0] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+Sep-07 11:24:37.576 [Thread-116] DEBUG nextflow.Session - Session start invoked
+Sep-07 11:24:37.599 [Thread-116] DEBUG nextflow.Session - Workflow process names [dsl1]: 
+Sep-07 11:24:37.600 [Thread-116] DEBUG nextflow.Session - Session await
+Sep-07 11:24:37.600 [Thread-116] DEBUG nextflow.Session - Session await > all process finished
+Sep-07 11:24:37.600 [Thread-116] DEBUG nextflow.Session - Session await > all barriers passed
+Sep-07 11:24:37.600 [Thread-116] DEBUG nextflow.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=0; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=0ms; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=0; peakCpus=0; peakMemory=0; ]
+Sep-07 11:24:37.604 [Thread-116] DEBUG nextflow.CacheDB - Closing CacheDB done
+Sep-07 11:24:37.605 [Thread-116] DEBUG nextflow.util.SpuriousDeps - AWS S3 uploader shutdown
