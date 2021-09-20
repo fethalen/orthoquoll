@@ -178,7 +178,7 @@ def main():
         print("Realigning provided alignments using MAFFT (L-INS-i algorithm)")
         realigned_files = []
 
-        with Pool(processes=args.threads) as pool:
+        with Pool(processes=int(args.threads)) as pool:
             for alignment in pool.imap_unordered(mafft.run_mafft, alignments):
                 realigned_files.append(alignment)
 
@@ -193,7 +193,7 @@ def main():
         print("Generating trees using FastTree")
         trees = []
 
-        with Pool(processes=args.threads) as pool:
+        with Pool(processes=int(args.threads)) as pool:
             for tree in pool.imap_unordered(fasttree.run_fasttree, alignments):
                 trees.append(tree)
 
